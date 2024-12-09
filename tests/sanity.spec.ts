@@ -1,5 +1,3 @@
-
-
 import { test, expect } from '@playwright/test';
 import BasePage from '../pages/BasePage';
 import HomePage from '../pages/HomePage';
